@@ -4,8 +4,8 @@
 	<col width="100">
 	<tr>
 		<td align="center" rowspan="2" width="311" valign="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-			<p><br><a href="https://github.com/armbian/upload/upload/apt.armbian.com/debs/stretch"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
-			<br><a href="https://github.com/armbian/upload/upload/apt.armbian.com/debs/stretch">stretch</a></p>
+			<p><br><a href="debs"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
+			<br><a href="debs">stretch</a></p>
 		</td>
 		<td align="center" width="205" valign="center">
 			<p><br><a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
