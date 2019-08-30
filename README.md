@@ -10,8 +10,8 @@
 			<p>Utilities</p>
 		</td>
 		<td align="center" rowspan="10" width="200">
+			<a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
 			<p><a href="/tuxwall/testings/upload/master">Main</a></p>
-			<img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Slika1" align="bottom" width="94" height="94" border="0"/>
 		</td>
 	</tr>
 	<tr>
