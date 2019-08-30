@@ -87,13 +87,13 @@
 		</td>
 	</tr>
 	<tr>
-		<td width="311" valign="top">
+		<td width="311" valign="center">
 			<p><sup>board support packages</sub></p>
 		</td>
-		<td width="205" valign="top">
+		<td width="205" valign="center">
 			<p><sub>htop, hostapd, tools, MALI desktop drivers</sub></p>
 		</td>
-		<td width="100">
+		<td width="100" valign="center">
 			<p><sub>Common stuff like armbian-firmware,armbian-config, armbian-release-desktop</sub></p>
 		</td>
 	</tr>
