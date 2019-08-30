@@ -19,7 +19,7 @@
 	</tr>
 	<tr>
 		<td align="center" width="205" valign="center">
-			<a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
+			<p><a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
 			<br><a href="/tuxwall/testings/upload/master">desktop</a></p>
 		</td>
 	</tr>
