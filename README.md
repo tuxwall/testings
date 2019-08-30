@@ -9,17 +9,17 @@
 		</td>
 		<td align="center" width="205" valign="center">
 			<p><a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
-			<p><a href="/tuxwall/testings/upload/master">utilities</a></p>
+			<br><a href="/tuxwall/testings/upload/master">utilities</a></p>
 		</td>
 		<td align="center" rowspan="10" width="200">
 			<p><a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
-			<p><a href="/tuxwall/testings/upload/master">main</a></p>
+			<br><a href="/tuxwall/testings/upload/master">main</a></p>
 		</td>
 	</tr>
 	<tr>
-		<td width="205" valign="center">
+		<td align="center" width="205" valign="center">
 			<a href="/tuxwall/testings/upload/master"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
-			<p><a href="/tuxwall/testings/upload/master">desktop</a></p>
+			<br><a href="/tuxwall/testings/upload/master">desktop</a></p>
 		</td>
 	</tr>
 	<tr>
