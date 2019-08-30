@@ -26,7 +26,7 @@
 	<col width="313">
 	<tr valign="top">
 		<td rowspan="10" width="97" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-			<p><a href="upload/tree/tuxwall">Main</a></p>
+			<p><a href="/tuxwall/testings/master">Main</a></p>
 		</td>
 		<td rowspan="4" width="99" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p>Debian 
