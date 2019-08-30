@@ -43,8 +43,9 @@
 			<p><br><a href="debs/xenial"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
 			<br><a href="debs/xenial">xenial</a></p>
 		</td>
-		<td width="205" valign="top" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-			<p>Utilities</p>
+		<td align="center" width="205" valign="center">
+			<p><br><a href="debs/extra/xenial-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
+			<br><a href="debs/extra/xenial-utils">utilities</a></p>
 		</td>
 	</tr>
 	<tr>
@@ -56,8 +57,9 @@
 		<td rowspan="2" width="311" valign="top" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p>Bionic</p>
 		</td>
-		<td width="205" valign="top" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-			<p>Utilities</p>
+		<td align="center" width="205" valign="center">
+			<p><br><a href="debs/extra/bionic-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
+			<br><a href="debs/extra/bionic-utils">utilities</a></p>
 		</td>
 	</tr>
 	<tr>
@@ -69,8 +71,9 @@
 		<td rowspan="2" width="311" valign="top" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p>Disco</p>
 		</td>
-		<td width="205" valign="top" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
-			<p>Utilities</p>
+		<td align="center" width="205" valign="center">
+			<p><br><a href="debs/extra/disco-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
+			<br><a href="debs/extra/disco-utils">utilities</a></p>
 		</td>
 	</tr>
 	<tr>
