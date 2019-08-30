@@ -9,7 +9,7 @@
 		<td width="205" valign="top" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p>Utilities</p>
 		</td>
-		<td rowspan="10" width="100" style="border: 1px solid #000000; padding: 0.1cm">
+		<td align="center" rowspan="10" width="100" style="border: 4px solid #000000; padding: 0.1cm">
 			<p><a href="/tuxwall/testings/upload/master">Main</a></p>
 			<img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Slika1" align="bottom" width="94" height="94" border="0"/>
 		</td>
