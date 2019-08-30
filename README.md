@@ -95,8 +95,8 @@
 			MALI desktop drivers</font></p>
 		</td>
 		<td width="100" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0.1cm">
-			<p><font size="5" style="font-size: 20pt">Common stuff like
-			armbian-firmware,armbian-config, armbian-release-desktop</font></p>
+			<p><sub><sup>Common stuff like
+			armbian-firmware,armbian-config, armbian-release-desktop</sup></sub></p>
 		</td>
 	</tr>
 </table>
